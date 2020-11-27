@@ -3,10 +3,10 @@ import 'dart:math';
 import 'dart:async';
 
 List<String> listBackImg = [
-  'images/car1.jpg',
-  'images/car2.jpg',
-  'images/car3.jpg',
-  'images/car4.jpg',
+  'images/Basketball.jpg',
+  'images/football.jpg',
+  'images/Hockey.jpg',
+  'images/Tennis.jpg',
 ];
 List<int> randomNumber = [
   0,
